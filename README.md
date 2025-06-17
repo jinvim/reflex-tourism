@@ -69,9 +69,3 @@ Although, **CAUTION that** scores obtained using different methods or data are n
 ## Contact
 
 If you have any questions or requests, feel free to reach out to me! Contacts are available in my profile.
-
----
-Annotations: 0,3237 SHA-256 8a30e5ce1f0e46f4ab9746fd724642c0  
-&Writing Tools: 121,4 244,5 668,3 771 811,9 912,2 968 1208 1632 1846 1882,4 1902 2053,2 2069,4 2276,4 2307 2380 2442 2482 2645,4 2814,4 2854,3 3233  
-@Me: 2084 2318,2 2379 2447,2 2460 2968,7  
-...
