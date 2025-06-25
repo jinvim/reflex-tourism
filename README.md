@@ -6,7 +6,7 @@ This repository contains the resilience index for the US domestic tourism sector
 
 Please cite this work as:
 
-Lee, S., & Pennington-Gray, L. (2025). Measuring Resilience of the Tourism Sector: Reflective Resilience Index (REFLEX) Approach.
+Lee, S., & Pennington-Gray, L. (2025). Measuring Resilience of the Tourism Sector: Reflective Resilience Index (REFLEX) Approach, *Annals of Tourism Research, 114,* 103983. https://doi.org/10.1016/j.annals.2025.103983
 
 - [Link to preprint](https://osf.io/984nr)
 - [Link to dataset used in the study](https://osf.io/hz47m/)
